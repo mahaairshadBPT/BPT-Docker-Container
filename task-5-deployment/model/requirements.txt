@@ -1,0 +1,14 @@
+geopandas==0.10.2
+numpy==1.21.4
+rasterio==1.2.10
+fiona==1.8.20
+# richdem==0.3.4
+scikit-learn==1.0.1
+opencv-python
+scikit-image
+astropy
+affine==2.3.0
+regex==2019.12.20
+scipy==1.4.1
+richdem
+matplotlib
